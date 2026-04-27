@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Developer | React | Java | Spring Boot</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=React+Developer;Java+Learner;Spring+Boot+Enthusiast;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=React+Developer;Java+Developer;Backend+Developer;Python+Developer;Spring+Boot+Enthusiast;Future+Software+Engineer" />
 </p>
 
 ---
@@ -59,8 +59,8 @@
 ---
 
 ## 🔗 Connect With Me
-- 💼 LinkedIn: (add your link)
-- 📧 Email: (your email)
+- 💼 LinkedIn: https://www.linkedin.com/in/jenifer-j-7551232a0
+- 📧 Email: jenifer.j2004@gmail.com
 
 ---
 
